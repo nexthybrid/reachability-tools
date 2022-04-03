@@ -25,4 +25,6 @@ A collection of reachability calculation toolboxes and software
 
 (table generated using [Tables Generator](https://www.tablesgenerator.com/markdown_tables))
 
+To cite this table, use the citation of the full paper: [Formal Certification Methods for Automated Vehicle Safety Assessment](https://arxiv.org/abs/2202.02818)
+
 Feel free to suggest other tools to be added in the list, by creating an Issue in Issues or by pull request.
