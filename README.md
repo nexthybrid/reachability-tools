@@ -22,6 +22,7 @@ A collection of reachability calculation toolboxes and software
 |[C2E2](https://publish.illinois.edu/c2e2-tool/)|Python|C2E2 can automatically check bounded time invariant properties of nonlinear hybrid automata|
 |[DryVR](https://dryvrtool.readthedocs.io/en/latest/)|Python|Framework for probabilistic algorithm for learning sensitivity from simulation data, and bounded reachability analysis that uses the learned sensitivity|
 |[AROC](https://aroc.in.tum.de)|MATLAB|A toolbox to automatically synthesizes verified controllers for solving reach-avoid problems using reachability analysis|
+|[CoSyMa](https://gitlab.inria.fr/goessler/multiscale-dcs)([pdf](https://dl.acm.org/doi/pdf/10.1145/2461328.2461343?casa_token=xnygAiO4Ux4AAAAA:wznvrDhOT42OYQj2X0bS3hZzFQ6s6v2C-hJI4o6I_vti9rXAEo64TJ_bCQQV_fTpiNHW5_Ld53PR))|ML|A tool for controller synthesis using multi-scale abstractions|
 
 (table generated using [Tables Generator](https://www.tablesgenerator.com/markdown_tables))
 
